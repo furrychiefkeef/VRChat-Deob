@@ -895,6 +895,7 @@ BestHTTP.SecureProtocol.Org.BouncyCastle.Utilities.Encoders.HexTranslator;HexTra
 .MonoBehaviour1PublicAbstractObHa1ReShMaObUnique;HighlightsFX
 .MonoBehaviour2PublicSealedInCoInhiSimoSimoSimoUnique;HighlightsFXMobile
 .MonoBehaviour2PublicSealedReInCoInhireInblreSiUnique;HighlightsFXStandalone
+.MonoBehaviour2PublicSealedReInreInblreSiInCoblUnique;HighlightsFXStandalone
 BestHTTP.SecureProtocol.Org.BouncyCastle.Crypto.Generators.HkdfBytesGenerator;HkdfBytesGenerator
 BestHTTP.SecureProtocol.Org.BouncyCastle.Crypto.Parameters.HkdfParameters;HkdfParameters
 BestHTTP.SecureProtocol.Org.BouncyCastle.Crypto.Macs.HMac;HMac
@@ -1246,7 +1247,6 @@ BestHTTP.SecureProtocol.Org.BouncyCastle.Asn1.X509.NoticeReference;NoticeReferen
 .MonoBehaviourPublicObGa_lObSt_vObStUnique;NotificationContentView
 .MonoBehaviourPublicGaBoGaBoGaGaGaGaGaGaUnique;NotificationIcon
 .MonoBehaviourPublicObDi2StObDi2Li1NoUnique;NotificationManager
-.MonoBehaviourPublicObDi2StObDi2So1NoUnique;NotificationManager
 .MonoBehaviourPublicBuVoAwVoOnVoOnVoVoVoUnique;NotificationsClearFriendRequestsButton
 .MonoBehaviourPublicGaRaObTeToGaGaUnique;NotificationsMenu
 BestHTTP.SecureProtocol.Org.BouncyCastle.Asn1.Ntt.NttObjectIdentifiers;NttObjectIdentifiers
@@ -2533,6 +2533,7 @@ BestHTTP.SecureProtocol.Org.BouncyCastle.Crypto.Prng.VmpcRandomGenerator;VmpcRan
 .MonoBehaviourPublicObTrBoTrLiOb1Di2StUnique;VRC.UI.Elements.Controls.MenuStateController
 .Button1PublicObUnique;VRC.UI.Elements.Controls.MenuTab
 .MonoBehaviourPublicStInBoGaObObObUnique;VRC.UI.Elements.Controls.MenuTab
+.Button1PublicObSt_cBoSt_cStStUnique;VRC.UI.Elements.Controls.MenuTab
 .MonoBehaviourPublicGaTrInUnique;VRC.UI.Elements.Controls.MenuTabGroup
 .MonoBehaviourPublicBu_q_hBu_d_uBuBuUnique;VRC.UI.Elements.Controls.MirrorResolutionFourWaySwitch
 .MonoBehaviourPublicGaObSiCaSiLoSiSiUnique;VRC.UI.Elements.Controls.ModalAlert
@@ -2824,6 +2825,7 @@ BestHTTP.SecureProtocol.Org.BouncyCastle.Crypto.Prng.VmpcRandomGenerator;VmpcRan
 .MonoBehaviourPublicLaGaBuVoAwVoOnVoVoVoUnique;VRC.UI.Elements.StreamerModeEnabledBanner
 .MonoBehaviourPublicBu_bIn_iOb_tBoUnique;VRC.UI.Elements.TabButton
 .MonoBehaviourPublicIPointerDownHandlerIEventSystemHandlerTo_tSeBoUnique;VRC.UI.Elements.ToggleClickEnabler
+.MonoBehaviour2PublicSiObSi_tCaOb_t_cBoObUnique;VRC.UI.Elements.ToggleSelector
 .MonoBehaviour1PublicToUnique;VRC.UI.Elements.Tooltips.UiToggleTooltip
 .UIElementPublicObCa_m_wObCo_cDi2BoUnique;VRC.UI.Elements.UIMenu
 .MonoBehaviourPublicStBoLiBo1ObBoSiObEaUnique;VRC.UI.Elements.UIPage
@@ -3469,10 +3471,8 @@ AmplitudeSDKWrapper.AmplitudeWrapper.__c__DisplayClass98_0;__c__DisplayClass98_0
 .HighlightsFXStandalone::Method_Public_Void_MeshFilter_PDM_0;ApplyFXToMeshFilter
 .HudNotification::Method_Public_Void_Sprite_LocalizableString_LocalizableString_Single_Object1PublicTBoTUnique_1_Boolean_0;ShowNotification
 .HudNotification::Method_Public_Void_Sprite_LocalizableString_LocalizableString_Single_Object1PublicTYBoTYUnique_1_Boolean_0;ShowNotification
-.HudNotification::Method_Public_Void_Sprite_LocalizableString_LocalizableString_Single_Object1PublicTBoTUnique_1_Boolean_0;ShowNotification
 .NetworkManager::Method_Public_Void_Player_0;OnPlayerLeave
 .NetworkManager::Method_Public_Void_Player_PDM_0;OnPlayerAwake
-.NetworkManager::Method_Internal_Void_Player_0:OnPlayerLeave
 .NetworkManager::Method_Public_Void_Player_PDM_2;OnPlayerJoined
 .PlayerNameplate::field_Public_GameObject_0;contents
 .PlayerNameplate::field_Public_GameObject_1;subText
@@ -3512,6 +3512,7 @@ AmplitudeSDKWrapper.AmplitudeWrapper.__c__DisplayClass98_0;__c__DisplayClass98_0
 .VRCPlayer::Method_Public_Static_LocalizableString_APIUser_0;GetTrustRank
 .VRCPlayer::_player;Player
 .VRCPlayer::_playerNet;Network
+
 Photon.Pun.PhotonNetwork::Method_Public_Static_Boolean_Byte_Object_RaiseEventOptions_SendOptions_0;RaiseEvent
 VRC.Player::field_Private_APIUser_0;APIUser
 VRC.Player::field_Private_Player_0;PhotonPlayer
@@ -3519,7 +3520,7 @@ VRC.Player::field_Private_VRCPlayerApi_0;VRCPlayerApi
 VRC.Player::prop_ApiAvatar_0;ApiAvatar
 VRC.Player::_playerNet;Network
 VRC.Player::_vrcplayer;VRCPlayer
-VRC.PlayerManager::field_Private_List_1_Player_0;PlayerList	
+VRC.PlayerManager::field_Private_List_1_Player_0;PlayerList
 VRC.PlayerManager::prop_Player_0;LocalPlayer
 VRC.UI.Client.HUB.HudController::field_Public_Static_HudController_0;instance
 VRCGestureController.Gesture::EnumValue0;None
