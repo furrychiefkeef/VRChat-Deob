@@ -1,0 +1,17 @@
+{
+
+  "gameSlug": "vrchat",
+
+  "gameName": "VRChat",
+
+  "mappingUrl": "https://cdn.2silly4u.chat/API/melonloader/DeobfuscationMap.csv.gz",
+
+  "mappingFileSHA512": "A290EDBA5EDB9F7A9ADD6366957FC61501F92D98A55D48C7DAB4E8A0F836341CEE23B6A9334578260CB891F516BCBD7E26F974EE5EF51A056D65191AC2F6468F",
+
+  "forceCpp2IlVersion": null,
+
+  "forceUnhollowerVersion": null,
+
+  "obfuscationRegex": null
+
+}
